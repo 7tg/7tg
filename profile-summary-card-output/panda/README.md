@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/7tg/7tg/master/profile-summary-card-output/panda/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/7tg/7tg/master/profile-summary-card-output/panda/4-productive-time.svg)
-```
-
-    
