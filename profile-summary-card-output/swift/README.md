@@ -42,3 +42,23 @@
 ```
 
     
+
+---
+
+![](./3-stats.svg)
+
+```
+![](https://raw.githubusercontent.com/7tg/7tg/master/profile-summary-card-output/swift/3-stats.svg)
+```
+
+    
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/7tg/7tg/master/profile-summary-card-output/swift/4-productive-time.svg)
+```
+
+    
